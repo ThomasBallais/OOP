@@ -8,7 +8,7 @@ private int length;
 public void makeSound()
 {
 	// TODO Auto-generated method stub
-	System.out.println("Hiss");
+	System.out.println("Hisssssssssssssssssssssssssssssssss");
 }
 
 
