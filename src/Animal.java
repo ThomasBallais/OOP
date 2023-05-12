@@ -40,7 +40,9 @@ public abstract class Animal
 		this.legs = legs;
 	}
 	
-	
-	
+	public void Jump()
+	{
+		//Dieren kunnen niet allemaal springen
+	}
 	
 }
